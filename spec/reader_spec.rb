@@ -16,7 +16,7 @@ describe Reader do
 
     describe "#return_co_occurrences" do
       it "should return the first number when method is called." do
-        STDIN.should_receive(:read).and_return("4")
+
       end
     end
   end
